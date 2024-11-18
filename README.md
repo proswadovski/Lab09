@@ -1,7 +1,7 @@
 [Peyton Roswadovski]
 [Assignment #9]
-[Submission date: 10/11/24]
-Worked with/sources: Lab TAs/Friend who previously took the class
+[Submission date: 10/17/24]
+Worked with/sources: Lab TAs
 example
 example
 example
